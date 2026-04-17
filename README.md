@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Riya 👋
 
-<!--
-**RiyaAnada/RiyaAnada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python, focused on transforming raw data into actionable business insights.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Power BI
+- Excel
+- Python
+- Dashboard Development
+- Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- HR Attrition Analysis Dashboard
